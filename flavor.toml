@@ -14,7 +14,7 @@ count_cut = { fg = "#E06C75", bg = "#282C34" }
 count_selected = { fg = "#98C379", bg = "#282C34" }
 
 border_symbol = "│"
-border_style = { fg = "#282C34" }
+border_style = { fg = "#5C6370" }
 
 [tabs]
 active = { bg = "#282C34", fg = "#61AFEF" }
@@ -94,4 +94,7 @@ rules = [
 
     { mime = "application/{pdf,rtf}", fg = "#98C379" },
     { mime = "application/vnd.*", fg = "#98C379" },
+
+    { url = "*", fg = "#ABB2BF" },
+    { url = "*/", fg = "#61AFEF" },
 ]
