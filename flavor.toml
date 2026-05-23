@@ -16,6 +16,10 @@ count_selected = { fg = "#98C379", bg = "#282C34" }
 border_symbol = "│"
 border_style = { fg = "#5C6370" }
 
+[indicator]
+current = { bg = "#353B45" }
+preview = { bg = "#353B45" }
+
 [tabs]
 active = { bg = "#282C34", fg = "#61AFEF" }
 inactive = {}
