@@ -13,7 +13,7 @@
 ## 🎨 Installation
 
 ```bash
-ya okg add shaaaaaQ/onedark
+ya pkg add shaaaaaQ/onedark
 ```
 
 ## ⚙️ Usage
